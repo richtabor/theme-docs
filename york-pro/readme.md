@@ -1,13 +1,8 @@
-# Frequently Asked
-
-1. **Nulla vitae elit libero, a pharetra augue?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
 
 
-# Theme Support
-If you have a problem with the theme or found a bug, please let us know via our official [Help Center][1]. We take pride in our customer support and we will do what we can to assist you.
 
-## Tips & Tricks
+
 
 
 # Menus
@@ -18,7 +13,7 @@ Once you’re viewing the Menus, create a new menu and save it. After you’ve s
 ## Footer Menu
 Add a footer menu to your webite simply by creating a menu and assigning it to the Footer Menu location - as described above.
 
-[Click here][2] to set your footer menu. 
+[Click here][1] to set your footer menu. 
 
 ## Social Menu
 The Social Menu is populated in both the site footer and sidebar elements of the theme. The social icons added to your menu will automatically populate in the site footer. To add the icons, simply create a custom link to the social media location and York Pro will do the rest.
@@ -28,5 +23,22 @@ To also display the inputted social icons in the sidebar, simply check the Navig
 
 
 
-[1]:	https://themebeans.com/support
-[2]:	/wp-admin/nav-menus.php
+
+# FAQ
+
+1. **Nulla vitae elit libero, a pharetra augue?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
+2. **Nulla vitae elit libero, a pharetra augue?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
+3. **Nulla vitae elit libero, a pharetra augue?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
+
+# Support
+If you have a problem with the theme or found a bug, please let us know via our official [Help Center][2]. We take pride in our customer support and we will do what we can to assist you.
+
+## Support Tips
+
+
+
+
+
+
+[1]:	/wp-admin/nav-menus.php
+[2]:	https://themebeans.com/support

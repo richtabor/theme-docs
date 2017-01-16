@@ -12,14 +12,13 @@ Once you’re viewing the Menus, create a new menu and save it. After you’ve s
 ## Footer Menu
 Add a footer menu to your webite simply by creating a menu and assigning it to the Footer Menu location - as described above.
 
+[Click here][2] to set your footer menu. 
 
 ## Social Menu
 The Social Menu is populated in both the site footer and sidebar elements of the theme. The social icons added to your menu will automatically populate in the site footer. To add the icons, simply create a custom link to the social media location and York Pro will do the rest.
 
-![][image-1]
 
 To also display the inputted social icons in the sidebar, simply check the Navigational Social Icons checkbox within the Customizer \> Settings \> Headersection.
 
 [1]:	https://themebeans.com/support
-
-[image-1]:	https://github.com/richtabor/theme-docs/blob/master/york-pro/images/social.jpg
+[2]:	/wp-admin/nav-menus.php

@@ -1,3 +1,9 @@
+# Frequently Asked
+
+1. **Nulla vitae elit libero, a pharetra augue?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
+
+
+
 # Theme Support
 If you have a problem with the theme or found a bug, please let us know via our official [Help Center][1]. We take pride in our customer support and we will do what we can to assist you.
 
@@ -19,6 +25,8 @@ The Social Menu is populated in both the site footer and sidebar elements of the
 
 
 To also display the inputted social icons in the sidebar, simply check the Navigational Social Icons checkbox within the Customizer \> Settings \> Headersection.
+
+
 
 [1]:	https://themebeans.com/support
 [2]:	/wp-admin/nav-menus.php

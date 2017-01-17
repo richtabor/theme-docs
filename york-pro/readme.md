@@ -2,8 +2,13 @@
 
 
 
+# Portfolio
 
+# Theme Customizer
 
+# Plugins
+
+# License Key
 
 # Menus
 It is rather important to set your theme menu in the WordPress Dashboard. To do this, locate the Menu options by selecting the “Appearance” tab from the dashboard sidebar and then “Menus”.
@@ -21,10 +26,7 @@ The Social Menu is populated in both the site footer and sidebar elements of the
 
 To also display the inputted social icons in the sidebar, simply check the Navigational Social Icons checkbox within the Customizer \> Settings \> Headersection.
 
-
-
-
-# FAQ
+# Frequenty Asked
 
 1. **Nulla vitae elit libero, a pharetra augue?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
 2. **Nulla vitae elit libero, a pharetra augue?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.

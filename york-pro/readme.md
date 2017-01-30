@@ -1,6 +1,6 @@
 
 
-# Get Started
+# Getting Started
 
 ## Activate Your License
 We strongly recommend that you add your theme’s license key in the Getting Started page. By adding your key, you activate the seamless theme updates as well as begin receiving theme support. 
@@ -8,6 +8,13 @@ We strongly recommend that you add your theme’s license key in the Getting Sta
 With theme updates enabled, you’ll get a notification in your dashboard whenever there is an update available. You can then update right in your WordPress dashboard, keeping your site healthy and secure.
 
 You can find your theme’s license key by checking your ThemeBeans purchase receipt or signing in to your ThemeBeans dashboard. Copy this key and enter it into the _York Pro License_ widget on your WordPress dashboard. Save and then activate your key. Your license key should now be active.
+
+## Installing the Child Theme
+There is one main reason why you would want to use a child theme. If you modify a theme directly and it is updated, then **your modifications will be lost**. By using a child theme you will ensure that your changes are preserved.
+
+Log in to your website's dashboard and navigate to the Dashboard \> Appearance \> Themes page. Click **Add New** and follow the directions to upload the york-pro-child.zip file, located in your theme’s package download.
+
+Simply click **Activate** and both the York Pro theme and York Pro child theme will be active on your WordPress site. Now have at it.
 
 ## Installing Demo Data
 When you first activate York Pro, it will look like a simple portfolio with your existing posts. This is expected since York Pro needs you to modify a few settings before it will look exactly like the demo. 
@@ -53,7 +60,7 @@ To also display the inputted social icons in the sidebar, simply check the Navig
 
 
 
-# License Key
+# Your License Key
 
 # Frequently Asked
 
@@ -67,7 +74,7 @@ To also display the inputted social icons in the sidebar, simply check the Navig
 
 
 
-# Support
+# Need Help?
 Have questions? [Get in touch][1] with a friendly member of our team and we’ll be happy to help. 
 
 ## Support Tips

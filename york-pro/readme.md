@@ -30,6 +30,18 @@ In order to get the best looking images in York Pro, we need to refresh your ima
 
 After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then press the **Regenerate All Thumbnails** button to start generating new image sizes. Once it’s finished, your library of images will be optimized and ready to go.
 
+# Frequently Asked
+
+1. **How do I update my theme?** If your license key is activated on the Theme License dashboard widget, we will send an update notice to your WordPress Dashboard. Follow the instructions there to update.
+
+2. **How long is my license valid for?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
+
+3. **How do I install the included child theme?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
+
+3. **How do I sort my portfolio?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
+
+
+
 
 # Portfolio
 
@@ -60,17 +72,8 @@ To also display the inputted social icons in the sidebar, simply check the Navig
 
 
 
-# Your License Key
+# License Key
 
-# Frequently Asked
-
-1. **How do I update my theme?** If your license key is activated on the Theme License dashboard widget, we will send an update notice to your WordPress Dashboard. Follow the instructions there to update.
-
-2. **How long is my license valid for?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-3. **How do I install the included child theme?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-3. **How do I sort my portfolio?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
 
 

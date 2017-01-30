@@ -2,43 +2,42 @@
 
 # Getting Started
 
-## Activate Your License
+## Activate your License Key
 It’s strongly recommended that you add your theme’s license key in the York Pro License widget on your WordPress Dashboard. By adding your key, you will activate the seamless theme updates and have access to our support team. 
 
 You can find your theme’s license key by checking your purchase receipt or signing in to your ThemeBeans dashboard. If you purchased the theme from ThemeForest, you may [request your license key here][1]. You’ll need your ThemeForest purchase code handy.
 
 Copy this key and enter it into the **York Pro License** widget on your WordPress Dashboard. Save and activate your license key.
 
-## Installing the Child Theme
+## Install the Child Theme
 There is one main reason why you would want to use a child theme. If you modify a theme directly and it is updated, then **your modifications will be lost**. By using a child theme you will ensure that your changes are preserved.
 
 Log in to your website's dashboard and navigate to the Dashboard \> Appearance \> Themes page. Click **Add New** and follow the directions to upload the york-pro-child.zip file, located in your theme’s package download.
 
 Simply click **Activate** and both the York Pro theme and York Pro child theme will be active on your WordPress site. Now have at it.
 
-## Installing Demo Data
+## Install the Demo Data
 When you first activate York Pro, it will look like a simple portfolio with your existing posts. This is expected since York Pro needs you to modify a few settings before it will look exactly like the demo. 
 
 Optionally, you may install our York Pro demo data, which will populate your site with the pages you see on our live demo. This can give you a head start in setting up your site. Once you get your site setup and get the hang of it, you may delete the unwanted posts or pages as you see fit.
 
 Download the York Pro demo data here. You can install this XML file by going to **Tools** → **Import** → **WordPress** and click **Choose File**. Upload the XML file and follow the steps to import. 
 
+
 When the demo data is finished importing, you should have several new posts and pages to work with going forward.
+
   
-##Preparing Your Images
+
+## Prepare your Images
 In order to get the best looking images in York Pro, we need to refresh your images to be cropped to York Pro’s image sizes. We can do this with the Regenerate Thumbnails plugin.
 
 After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then press the **Regenerate All Thumbnails** button to start generating new image sizes. Once it’s finished, your library of images will be optimized and ready to go.
 
-# Frequently Asked
 
-1. **How do I update my theme?** With an active license key, you’ll receive a notification in the WordPress Dashboard whenever there is an update available. You can then update right in your WordPress dashboard, keeping your site healthy and secure.
 
-2. **How long is my license valid for?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
-3. **How do I install the included child theme?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
-3. **How do I sort my portfolio?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
+
 
 
 
@@ -72,7 +71,18 @@ To also display the inputted social icons in the sidebar, simply check the Navig
 
 
 
-# License Key
+
+
+
+# Frequently Asked
+
+1. **How do I update my theme?** With an active license key, you’ll receive a notification in the WordPress Dashboard whenever there is an update available. You can then update right in your WordPress dashboard, keeping your site healthy and secure.
+
+2. **How long is my license valid for?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
+
+3. **How do I install the included child theme?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
+
+3. **How do I sort my portfolio?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
 
 

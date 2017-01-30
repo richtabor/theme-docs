@@ -3,11 +3,11 @@
 # Getting Started
 
 ## Activate Your License
-We strongly recommend that you add your theme’s license key in the Getting Started page. By adding your key, you activate the seamless theme updates as well as begin receiving theme support. 
+It’s strongly recommended that you add your theme’s license key in the York Pro License widget on your WordPress Dashboard. By adding your key, you will activate the seamless theme updates and have access to our support team. 
 
-With theme updates enabled, you’ll get a notification in your dashboard whenever there is an update available. You can then update right in your WordPress dashboard, keeping your site healthy and secure.
+You can find your theme’s license key by checking your purchase receipt or signing in to your ThemeBeans dashboard. If you purchased the theme from ThemeForest, you may [request your license key here][1]. You’ll need your ThemeForest purchase code handy.
 
-You can find your theme’s license key by checking your ThemeBeans purchase receipt or signing in to your ThemeBeans dashboard. Copy this key and enter it into the _York Pro License_ widget on your WordPress dashboard. Save and then activate your key. Your license key should now be active.
+Copy this key and enter it into the **York Pro License** widget on your WordPress Dashboard. Save and activate your license key.
 
 ## Installing the Child Theme
 There is one main reason why you would want to use a child theme. If you modify a theme directly and it is updated, then **your modifications will be lost**. By using a child theme you will ensure that your changes are preserved.
@@ -32,7 +32,7 @@ After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then pre
 
 # Frequently Asked
 
-1. **How do I update my theme?** If your license key is activated on the Theme License dashboard widget, we will send an update notice to your WordPress Dashboard. Follow the instructions there to update.
+1. **How do I update my theme?** With an active license key, you’ll receive a notification in the WordPress Dashboard whenever there is an update available. You can then update right in your WordPress dashboard, keeping your site healthy and secure.
 
 2. **How long is my license valid for?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
@@ -40,20 +40,6 @@ After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then pre
 
 3. **How do I sort my portfolio?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
-
-
-
-# Portfolio
-
-## Thumbnails
-
-## Post Formats
-
-## Captions
-
-## Options
-
-## Sorting
 
 
 
@@ -72,13 +58,27 @@ To also display the inputted social icons in the sidebar, simply check the Navig
 
 
 
+# Portfolio
+
+## Thumbnails
+
+## Post Formats
+
+## Captions
+
+## Options
+
+## Sorting
+
+
+
 # License Key
 
 
 
 
 # Need Help?
-Have questions? [Get in touch][1] with a friendly member of our team and we’ll be happy to help. 
+Have questions? [Get in touch][2] with a friendly member of our team and we’ll be happy to help. 
 
 ## Support Tips
 
@@ -88,4 +88,5 @@ Have questions? [Get in touch][1] with a friendly member of our team and we’ll
 
 **Please be nice.** You should always be nice to the support personal. The folks on our support team really do enjoy helping others, but you can really ruin their day by using negative words.
 
-[1]:	https://themebeans.com/support
+[1]:	https://themebeans.com/themeforest "Request a License Key"
+[2]:	https://themebeans.com/support

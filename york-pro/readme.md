@@ -23,7 +23,6 @@ Optionally, you may install our York Pro demo data, which will populate your sit
 
 Download the York Pro demo data here. You can install this XML file by going to **Tools** → **Import** → **WordPress** and click **Choose File**. Upload the XML file and follow the steps to import. 
 
-
 When the demo data is finished importing, you should have several new posts and pages to work with going forward.
 
   
@@ -32,12 +31,6 @@ When the demo data is finished importing, you should have several new posts and 
 In order to get the best looking images in York Pro, we need to refresh your images to be cropped to York Pro’s image sizes. We can do this with the Regenerate Thumbnails plugin.
 
 After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then press the **Regenerate All Thumbnails** button to start generating new image sizes. Once it’s finished, your library of images will be optimized and ready to go.
-
-
-
-
-
-
 
 
 

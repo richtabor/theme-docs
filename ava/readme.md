@@ -16,12 +16,10 @@ Log in to your website's dashboard and navigate to the Dashboard \> Appearance \
 
 Simply click **Activate** and both the Ava theme and Ava child theme will be active on your WordPress site. Now have at it.
 
-
 ## 3. Install Recommended Plugins
 Please install the recommended WordPress plugins through the notice at the top or your admin dashboard. If you do not plan on using specific elements, such as the portfoliox, team or WooCommerce shop features, then there’s no need to install those.
 
 Once clicked, you will be taken to the Plugin Installation admin view, where you may install and activate each plugin, as depicted [in this screenshot][2].
-
 
 ## 4. Install the Demo Data
 When you first activate Ava, it will look like a simple website with your existing content. This is expected since Ava needs you to modify a few settings before it will look exactly like the demo. 
@@ -32,11 +30,11 @@ You can find the ava.xml data file in the theme package download. You can instal
 
 When the demo data is finished importing, you should have several new posts and pages to work with going forward.
 
-
 ## 5. Prepare your Images
 In order to get the best looking images in Ava, we need to refresh your images to be cropped to Ava’s image sizes. We do this with the Regenerate Thumbnails plugin.
 
 After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then press the **Regenerate All Thumbnails** button to start generating new image sizes. Once it’s finished, your library of images will be optimized and ready to go.
+
 
 
 
@@ -73,12 +71,18 @@ Beaver builder is really a great product and we’re committed to developing mor
 
 
 
-# The Site Editor
+# Site Editing
 
+To access the live Customizer and edit your site’s design, you may select the Customize button in the admin bar dropdown or select **Customize** from the Dashboard menu. Note that you must be logged in as a site administrator in order to access the controls.
 
-# Portfolio
+## Contextual Links
+You'll notice various "Edit" elements throughout the Customizer Site Editor viewport, which open relevant options panels pertaining.
 
+## Theme Options
+There are hundreds of theme options within Ava to let you modify colors, theme elements (headers, footers, etc), sizes, positioning, fonts and icons.
 
+## Widget Areas
+Adding widgets has never been easier with our new contextual widget spaces. Simply click on the little "nibs" to add a widget, select your widget from the panel - and you're done ([screenshot][8]). 
 
 
 
@@ -96,22 +100,26 @@ To also display the inputted social icons in the sidebar, simply check the Navig
 
 
 
-
-
 # Frequently Asked
 
 1. **How do I update my theme?** With an active license key, you’ll receive a notification in the WordPress Dashboard whenever there is an update available. You can then update right in your WordPress dashboard, keeping your site healthy and secure.
 
-2. **How long is my license valid for?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
+2. **How do I get help?** You can request support via our offical [Help Center][9]. We’re here to help with any technical questions, though customization requests should be directed [here][10]. 
 
-3. **How do I install the included child theme?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
+3. **Do I need a theme license key?** You don’t need a key to use the theme, but in order to receive support and in-dashboard update notifications, an active license key is required.
 
-3. **How do I sort my portfolio?** Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.
+4. **How do I get a license key** You can find your theme’s license key by checking your ThemeBeans purchase receipt or signing in to your ThemeBeans dashboard. If you purchased the theme from ThemeForest, you may [request your license key here][11].
 
+5. **How long is my license key valid for?** Initial licenses are issued on an annual basis. If you’ve purchased from ThemeForest, you’ll have access to support and in-dashboard updates as long as you have a support package.
+
+6. **Can I use my theme with an expired license** You sure can! You just won’t have access to in-dashboard updates, as well as our support team.
+
+7. **What paid version of Beaver Builder should I use?**  If you’re running a multisite installation, you’ll want the Pro version - otherwise, the standard package should do the trick. [Click here][12] for more info. Note that the paid version is not required, though it does offer extended functionality.
 
 
 # Need Help?
-Have questions? [Get in touch][8] with a friendly member of our team and we’ll be happy to help. 
+Have questions? [Get in touch][13] with a friendly member of our team and we’ll be happy to help. 
+
 
 ## Support Tips
 
@@ -128,4 +136,9 @@ Have questions? [Get in touch][8] with a friendly member of our team and we’ll
 [5]:	http://docs.themebeans.com/ava/images/bb-1.jpg
 [6]:	http://docs.themebeans.com/ava/images/bb-2.jpg
 [7]:	https://www.wpbeaverbuilder.com/?fla=1173
-[8]:	https://themebeans.com/support
+[8]:	http://docs.themebeans.com/ava/images/editor-4.jpg
+[9]:	https://themebeans.com/support
+[10]:	http://themebeans.com/customizations
+[11]:	https://themebeans.com/themeforest "Request a License Key"
+[12]:	https://www.wpbeaverbuilder.com/pricing?fla=1173
+[13]:	https://themebeans.com/support

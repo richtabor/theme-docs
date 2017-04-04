@@ -33,7 +33,7 @@ You can find the ava.xml data file in the theme package download. You can instal
 When the demo data is finished importing, you should have several new posts and pages to work with going forward.
 
 ## 5. Prepare your Images
-In order to get the best looking images in Ava, we need to refresh your images to be cropped to Ava’s image sizes. We do this with the Regenerate Thumbnails plugin.
+In order to get the best looking images in Ava, we need to refresh your images to be cropped to Ava’s image sizes. We do this with the [Regenerate Thumbnails][2] plugin.
 
 After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then press the **Regenerate All Thumbnails** button to start generating new image sizes. Once it’s finished, your library of images will be optimized and ready to go.
 
@@ -41,7 +41,7 @@ After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then pre
 
 
 # Using Beaver Builder
-[Beaver Builder][2] is quite a powerful page builder. With relative ease you can recreate our live demo templates and build your own to suit your needs.
+[Beaver Builder][3] is quite a powerful page builder. With relative ease you can recreate our live demo templates and build your own to suit your needs.
 
 ## Activating Beaver Builder
 Simply add a new standard WordPress page and jump into Beaver Builder by clicking the Page Builder tab. Once you’re in the page builder, you have quite a few options to start at:
@@ -72,7 +72,7 @@ The following are the settings that we've deployed on the live demo:
 
 ## Beaver Builder Pro
 
-The free version of Beaver Builder is downloadable from the WordPress.org repository and will work flawlessly out-of-the-box, but if you want more advanced modules and the ability to save your own templates, you’ll want to purchase the [paid version][3] of the plugin.
+The free version of Beaver Builder is downloadable from the WordPress.org repository and will work flawlessly out-of-the-box, but if you want more advanced modules and the ability to save your own templates, you’ll want to purchase the [paid version][4] of the plugin.
 
 Beaver builder is really a great product and we’re committed to developing more wonderful modules and templates for Ava.
 
@@ -115,21 +115,21 @@ To also display the inputted social icons in the sidebar, simply check the Navig
 
 1. **How do I update my theme?** With an active license key, you’ll receive a notification in the WordPress Dashboard whenever there is an update available. You can then update right in your WordPress dashboard, keeping your site healthy and secure.
 
-2. **How do I get help?** You can request support via our offical [Help Center][4]. We’re here to help with any technical questions, though customization requests should be directed [here][5].
+2. **How do I get help?** You can request support via our offical [Help Center][5]. We’re here to help with any technical questions, though customization requests should be directed [here][6].
 
 3. **Do I need a theme license key?** You don’t need a key to use the theme, but in order to receive support and in-dashboard update notifications, an active license key is required.
 
-4. **How do I get a license key** You can find your theme’s license key by checking your ThemeBeans purchase receipt or signing in to your ThemeBeans dashboard. If you purchased the theme from ThemeForest, you may [request your license key here][6].
+4. **How do I get a license key** You can find your theme’s license key by checking your ThemeBeans purchase receipt or signing in to your ThemeBeans dashboard. If you purchased the theme from ThemeForest, you may [request your license key here][7].
 
 5. **How long is my license key valid for?** Initial licenses are issued on an annual basis. If you’ve purchased from ThemeForest, you’ll have access to support and in-dashboard updates as long as you have a support package.
 
 6. **Can I use my theme with an expired license** You sure can! You just won’t have access to in-dashboard updates, as well as our support team.
 
-7. **What paid version of Beaver Builder should I use?**  If you’re running a multisite installation, you’ll want the Pro version - otherwise, the standard package should do the trick. [Click here][7] for more info. Note that the paid version is not required, though it does offer extended functionality.
+7. **What paid version of Beaver Builder should I use?**  If you’re running a multisite installation, you’ll want the Pro version - otherwise, the standard package should do the trick. [Click here][8] for more info. Note that the paid version is not required, though it does offer extended functionality.
 
 
 # Need Help?
-Have questions? [Get in touch][8] with a friendly member of our team and we’ll be happy to help. 
+Have questions? [Get in touch][9] with a friendly member of our team and we’ll be happy to help. 
 
 
 ## Support Tips
@@ -141,13 +141,14 @@ Have questions? [Get in touch][8] with a friendly member of our team and we’ll
 **Please be nice.** You should always be nice to the support personal. The folks on our support team really do enjoy helping others, but you can really ruin their day by using negative words.
 
 [1]:	https://themebeans.com/themeforest "Request a License Key"
-[2]:	https://wordpress.org/plugins/beaver-builder-lite-version/
-[3]:	https://www.wpbeaverbuilder.com/?fla=1173
-[4]:	https://themebeans.com/support
+[2]:	https://wordpress.org/plugins/regenerate-thumbnails/ "Regenerate Thumbnails WordPress Plugin"
+[3]:	https://wordpress.org/plugins/beaver-builder-lite-version/
+[4]:	https://www.wpbeaverbuilder.com/?fla=1173
 [5]:	https://themebeans.com/support
-[6]:	http://themebeans.com/customizations
-[7]:	https://www.wpbeaverbuilder.com/pricing?fla=1173
-[8]:	https://themebeans.com/support
+[6]:	https://themebeans.com/support
+[7]:	http://themebeans.com/customizations
+[8]:	https://www.wpbeaverbuilder.com/pricing?fla=1173
+[9]:	https://themebeans.com/support
 
 [image-1]:	http://docs.themebeans.com/ava/images/tgmpa.jpg "Installing Plugins"
 [image-2]:	http://docs.themebeans.com/ava/images/bb.jpg "Activating Beaver Builder"

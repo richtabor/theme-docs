@@ -21,7 +21,7 @@ Please install the recommended WordPress plugins through the notice at the top o
 
 Once clicked, you will be taken to the Plugin Installation admin view, where you may install and activate each plugin, as depicted here:
 
-image(http://docs.themebeans.com/ava/images/tgmpa.jpg, Screenshot, Screenshot)
+![](http://docs.themebeans.com/ava/images/tgmpa.jpg "Screenshot")
 
 ## 4. Install the Demo Data
 When you first activate Ava, it will look like a simple website with your existing content. This is expected since Ava needs you to modify a few settings before it will look exactly like the demo. 

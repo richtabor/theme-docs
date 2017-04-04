@@ -19,7 +19,9 @@ Simply click **Activate** and both the Ava theme and Ava child theme will be act
 ## 3. Install Recommended Plugins
 Please install the recommended WordPress plugins through the notice at the top or your admin dashboard. If you do not plan on using specific elements, such as the portfoliox, team or WooCommerce shop features, then there’s no need to install those.
 
-Once clicked, you will be taken to the Plugin Installation admin view, where you may install and activate each plugin, as depicted [in this screenshot][2].
+Once clicked, you will be taken to the Plugin Installation admin view, where you may install and activate each plugin, as depicted here:
+
+image(http://docs.themebeans.com/ava/images/tgmpa.jpg, Screenshot, Screenshot)
 
 ## 4. Install the Demo Data
 When you first activate Ava, it will look like a simple website with your existing content. This is expected since Ava needs you to modify a few settings before it will look exactly like the demo. 
@@ -39,21 +41,21 @@ After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then pre
 
 
 # Using Beaver Builder
-[Beaver Builder][3] is quite a powerful page builder. With relative ease you can recreate our live demo templates and build your own to suit your needs.
+[Beaver Builder][2] is quite a powerful page builder. With relative ease you can recreate our live demo templates and build your own to suit your needs.
 
 ## Activating Beaver Builder
-Simply add a new standard WordPress page and jump into Beaver Builder by clicking the Page Builder tab. [Click here][4] to view a screenshot. Once you’re in the page builder, you have quite a few options to start at.
+Simply add a new standard WordPress page and jump into Beaver Builder by clicking the Page Builder tab. [Click here][3] to view a screenshot. Once you’re in the page builder, you have quite a few options to start at.
 
 ## Selecting a Template
 When the page builder opens, you will be prompted to select a layout template to begin with. Starting with one a bundled tempalte is optional.
 
-There are two groups of templates: Ava Templates - which comprise of the various page layouts, and Ava Portfolio Templates - which are portfolio layouts. You can choose the templates to view at the top right dropdown selector as seen in this [screenshot][5].
+There are two groups of templates: Ava Templates - which comprise of the various page layouts, and Ava Portfolio Templates - which are portfolio layouts. You can choose the templates to view at the top right dropdown selector as seen in this [screenshot][4].
 
 ## Using Modules
 We’ve built quite a few custom modules that are packaged within Ava. You can use these modules to build out any web page as you see fit. Any modules can be placed on any page - giving you unlimited possibilies. 
 
 ## Set Global Settings
-You can use Beaver Builder’s Global Settings to change default settings for whether rows are full width or fixed, and, if fixed width, the maximum width in pixels for the row. By setting the default row width and row content width settings, it means that every time you create a row, the row widths are initially set to those defaults. You are free to change individual row settings to something else. Here’s a [screenshot][6].
+You can use Beaver Builder’s Global Settings to change default settings for whether rows are full width or fixed, and, if fixed width, the maximum width in pixels for the row. By setting the default row width and row content width settings, it means that every time you create a row, the row widths are initially set to those defaults. You are free to change individual row settings to something else. Here’s a [screenshot][5].
 
 The following are the settings that we've deployed on the live demo:
 
@@ -64,7 +66,7 @@ The following are the settings that we've deployed on the live demo:
 
 ## Beaver Builder Pro
 
-The free version of Beaver Builder is downloadable from the WordPress.org repository and will work flawlessly out-of-the-box, but if you want more advanced modules and the ability to save your own templates, you’ll want to purchase the [paid version][7] of the plugin.
+The free version of Beaver Builder is downloadable from the WordPress.org repository and will work flawlessly out-of-the-box, but if you want more advanced modules and the ability to save your own templates, you’ll want to purchase the [paid version][6] of the plugin.
 
 Beaver builder is really a great product and we’re committed to developing more wonderful modules and templates for Ava.
 
@@ -82,7 +84,7 @@ You'll notice various "Edit" elements throughout the Customizer Site Editor view
 There are hundreds of theme options within Ava to let you modify colors, theme elements (headers, footers, etc), sizes, positioning, fonts and icons.
 
 ## Widget Areas
-Adding widgets has never been easier with our new contextual widget spaces. Simply click on the little "nibs" to add a widget, select your widget from the panel - and you're done ([screenshot][8]). 
+Adding widgets has never been easier with our new contextual widget spaces. Simply click on the little "nibs" to add a widget, select your widget from the panel - and you're done ([screenshot][7]). 
 
 
 
@@ -104,21 +106,21 @@ To also display the inputted social icons in the sidebar, simply check the Navig
 
 1. **How do I update my theme?** With an active license key, you’ll receive a notification in the WordPress Dashboard whenever there is an update available. You can then update right in your WordPress dashboard, keeping your site healthy and secure.
 
-2. **How do I get help?** You can request support via our offical [Help Center][9]. We’re here to help with any technical questions, though customization requests should be directed [here][10]. 
+2. **How do I get help?** You can request support via our offical [Help Center][8]. We’re here to help with any technical questions, though customization requests should be directed [here][9].
 
 3. **Do I need a theme license key?** You don’t need a key to use the theme, but in order to receive support and in-dashboard update notifications, an active license key is required.
 
-4. **How do I get a license key** You can find your theme’s license key by checking your ThemeBeans purchase receipt or signing in to your ThemeBeans dashboard. If you purchased the theme from ThemeForest, you may [request your license key here][11].
+4. **How do I get a license key** You can find your theme’s license key by checking your ThemeBeans purchase receipt or signing in to your ThemeBeans dashboard. If you purchased the theme from ThemeForest, you may [request your license key here][10].
 
 5. **How long is my license key valid for?** Initial licenses are issued on an annual basis. If you’ve purchased from ThemeForest, you’ll have access to support and in-dashboard updates as long as you have a support package.
 
 6. **Can I use my theme with an expired license** You sure can! You just won’t have access to in-dashboard updates, as well as our support team.
 
-7. **What paid version of Beaver Builder should I use?**  If you’re running a multisite installation, you’ll want the Pro version - otherwise, the standard package should do the trick. [Click here][12] for more info. Note that the paid version is not required, though it does offer extended functionality.
+7. **What paid version of Beaver Builder should I use?**  If you’re running a multisite installation, you’ll want the Pro version - otherwise, the standard package should do the trick. [Click here][11] for more info. Note that the paid version is not required, though it does offer extended functionality.
 
 
 # Need Help?
-Have questions? [Get in touch][13] with a friendly member of our team and we’ll be happy to help. 
+Have questions? [Get in touch][12] with a friendly member of our team and we’ll be happy to help. 
 
 
 ## Support Tips
@@ -130,15 +132,14 @@ Have questions? [Get in touch][13] with a friendly member of our team and we’l
 **Please be nice.** You should always be nice to the support personal. The folks on our support team really do enjoy helping others, but you can really ruin their day by using negative words.
 
 [1]:	https://themebeans.com/themeforest "Request a License Key"
-[2]:	http://docs.themebeans.com/ava/images/tgmpa.jpg
-[3]:	https://wordpress.org/plugins/beaver-builder-lite-version/
-[4]:	http://docs.themebeans.com/ava/images/bb.jpg
-[5]:	http://docs.themebeans.com/ava/images/bb-1.jpg
-[6]:	http://docs.themebeans.com/ava/images/bb-2.jpg
-[7]:	https://www.wpbeaverbuilder.com/?fla=1173
-[8]:	http://docs.themebeans.com/ava/images/editor-4.jpg
-[9]:	https://themebeans.com/support
-[10]:	http://themebeans.com/customizations
-[11]:	https://themebeans.com/themeforest "Request a License Key"
-[12]:	https://www.wpbeaverbuilder.com/pricing?fla=1173
-[13]:	https://themebeans.com/support
+[2]:	https://wordpress.org/plugins/beaver-builder-lite-version/
+[3]:	http://docs.themebeans.com/ava/images/bb.jpg
+[4]:	http://docs.themebeans.com/ava/images/bb-1.jpg
+[5]:	http://docs.themebeans.com/ava/images/bb-2.jpg
+[6]:	https://www.wpbeaverbuilder.com/?fla=1173
+[7]:	http://docs.themebeans.com/ava/images/editor-4.jpg
+[8]:	https://themebeans.com/support
+[9]:	http://themebeans.com/customizations
+[10]:	https://themebeans.com/themeforest "Request a License Key"
+[11]:	https://www.wpbeaverbuilder.com/pricing?fla=1173
+[12]:	https://themebeans.com/support

@@ -21,7 +21,7 @@ Please install the recommended WordPress plugins through the notice at the top o
 
 Once clicked, you will be taken to the Plugin Installation admin view, where you may install and activate each plugin, as depicted here:
 
-![](http://docs.themebeans.com/ava/images/tgmpa.jpg "Installing Plugins")
+![][image-1]
 
 ## 4. Install the Demo Data
 When you first activate Ava, it will look like a simple website with your existing content. This is expected since Ava needs you to modify a few settings before it will look exactly like the demo. 
@@ -46,14 +46,14 @@ After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then pre
 ## Activating Beaver Builder
 Simply add a new standard WordPress page and jump into Beaver Builder by clicking the Page Builder tab. Once you’re in the page builder, you have quite a few options to start at:
 
-![](http://docs.themebeans.com/ava/images/bb.jpg "Activating Beaver Builder")
+![][image-2]
 
 ## Selecting a Template
 When the page builder opens, you will be prompted to select a layout template to begin with. Starting with one a bundled tempalte is optional.
 
 There are two groups of templates: Ava Templates - which comprise of the various page layouts, and Ava Portfolio Templates - which are portfolio layouts. You can choose the templates to view at the top right dropdown selector:
 
-![](http://docs.themebeans.com/ava/images/bb-1.jpg "Selecting a Template")
+![][image-3]
 
 ## Using Modules
 We’ve built quite a few custom modules that are packaged within Ava. You can use these modules to build out any web page as you see fit. Any modules can be placed on any page - giving you unlimited possibilies. 
@@ -61,7 +61,7 @@ We’ve built quite a few custom modules that are packaged within Ava. You can u
 ## Set Global Settings
 You can use Beaver Builder’s Global Settings to change default settings for whether rows are full width or fixed, and, if fixed width, the maximum width in pixels for the row. By setting the default row width and row content width settings, it means that every time you create a row, the row widths are initially set to those defaults. You are free to change individual row settings to something else.
 
-![](http://docs.themebeans.com/ava/images/bb-2.jpg "Selecting a Template")
+![][image-4]
 
 The following are the settings that we've deployed on the live demo:
 
@@ -92,7 +92,7 @@ There are hundreds of theme options within Ava to let you modify colors, theme e
 ## Widget Areas
 Adding widgets has never been easier with our new contextual widget spaces. Simply click on the little "nibs" to add a widget, select your widget from the panel - and you're done. 
 
-![](http://docs.themebeans.com/ava/images/editor-4.jpg "Selecting a Template")
+![][image-5]
 
 
 
@@ -115,11 +115,11 @@ To also display the inputted social icons in the sidebar, simply check the Navig
 
 1. **How do I update my theme?** With an active license key, you’ll receive a notification in the WordPress Dashboard whenever there is an update available. You can then update right in your WordPress dashboard, keeping your site healthy and secure.
 
-2. **How do I get help?** You can request support via our offical [Help Center][8]. We’re here to help with any technical questions, though customization requests should be directed [here][4].
+2. **How do I get help?** You can request support via our offical [Help Center][4]. We’re here to help with any technical questions, though customization requests should be directed [here][5].
 
 3. **Do I need a theme license key?** You don’t need a key to use the theme, but in order to receive support and in-dashboard update notifications, an active license key is required.
 
-4. **How do I get a license key** You can find your theme’s license key by checking your ThemeBeans purchase receipt or signing in to your ThemeBeans dashboard. If you purchased the theme from ThemeForest, you may [request your license key here][5].
+4. **How do I get a license key** You can find your theme’s license key by checking your ThemeBeans purchase receipt or signing in to your ThemeBeans dashboard. If you purchased the theme from ThemeForest, you may [request your license key here][6].
 
 5. **How long is my license key valid for?** Initial licenses are issued on an annual basis. If you’ve purchased from ThemeForest, you’ll have access to support and in-dashboard updates as long as you have a support package.
 
@@ -144,7 +144,13 @@ Have questions? [Get in touch][8] with a friendly member of our team and we’ll
 [2]:	https://wordpress.org/plugins/beaver-builder-lite-version/
 [3]:	https://www.wpbeaverbuilder.com/?fla=1173
 [4]:	https://themebeans.com/support
-[5]:	http://themebeans.com/customizations
-[6]:	https://themebeans.com/themeforest "Request a License Key"
+[5]:	https://themebeans.com/support
+[6]:	http://themebeans.com/customizations
 [7]:	https://www.wpbeaverbuilder.com/pricing?fla=1173
 [8]:	https://themebeans.com/support
+
+[image-1]:	http://docs.themebeans.com/ava/images/tgmpa.jpg "Installing Plugins"
+[image-2]:	http://docs.themebeans.com/ava/images/bb.jpg "Activating Beaver Builder"
+[image-3]:	http://docs.themebeans.com/ava/images/bb-1.jpg "Selecting a Template"
+[image-4]:	http://docs.themebeans.com/ava/images/bb-2.jpg "Selecting a Template"
+[image-5]:	http://docs.themebeans.com/ava/images/editor-4.jpg "Selecting a Template"

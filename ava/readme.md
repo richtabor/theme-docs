@@ -17,7 +17,7 @@ Log in to your website's dashboard and navigate to the Dashboard \> Appearance \
 Simply click **Activate** and both the Ava theme and Ava child theme will be active on your WordPress site. Now have at it.
 
 ## 3. Install Recommended Plugins
-Please install the recommended WordPress plugins through the notice at the top or your admin dashboard. If you do not plan on using specific elements, such as the portfoliox, team or WooCommerce shop features, then there’s no need to install those.
+Please install the recommended WordPress plugins through the notice at the top or your admin dashboard. If you do not plan on using specific elements, such as the portfolio, team or WooCommerce shop features, then there’s no need to install those.
 
 Once clicked, you will be taken to the Plugin Installation admin view, where you may install and activate each plugin, as depicted here:
 
@@ -49,14 +49,14 @@ Simply add a new standard WordPress page and jump into Beaver Builder by clickin
 ![][image-2]
 
 ## Selecting a Template
-When the page builder opens, you will be prompted to select a layout template to begin with. Starting with one a bundled tempalte is optional.
+When the page builder opens, you will be prompted to select a layout template to begin with. Starting with one a bundled template is optional.
 
 There are two groups of templates: Ava Templates - which comprise of the various page layouts, and Ava Portfolio Templates - which are portfolio layouts. You can choose the templates to view at the top right dropdown selector:
 
 ![][image-3]
 
 ## Using Modules
-We’ve built quite a few custom modules that are packaged within Ava. You can use these modules to build out any web page as you see fit. Any modules can be placed on any page - giving you unlimited possibilies. 
+We’ve built quite a few custom modules that are packaged within Ava. You can use these modules to build out any web page as you see fit. Any modules can be placed on any page - giving you unlimited possibilities. 
 
 ## Set Global Settings
 You can use Beaver Builder’s Global Settings to change default settings for whether rows are full width or fixed, and, if fixed width, the maximum width in pixels for the row. By setting the default row width and row content width settings, it means that every time you create a row, the row widths are initially set to those defaults. You are free to change individual row settings to something else.
@@ -74,7 +74,13 @@ The following are the settings that we've deployed on the live demo:
 
 The free version of Beaver Builder is downloadable from the WordPress.org repository and will work flawlessly out-of-the-box, but if you want more advanced modules and the ability to save your own templates, you’ll want to purchase the [paid version][4] of the plugin.
 
-Beaver builder is really a great product and we’re committed to developing more wonderful modules and templates for Ava.
+Beaver Builder is really a great product and we’re committed to developing more wonderful modules and templates for Ava.
+
+## Beaver Builder Pro Modules
+
+Beaver Builder Pro has quite a few great modules that we have included support for in Ava. Please not that all modules on the live demo are available on the free version of Beaver Builder, except for the Accordion module as seen on the Ava demo FAQ page. 
+
+To add accordions (and other shortcodes), simply add the shortcode to the Text Editor module within the builder.
 
 
 
@@ -97,7 +103,6 @@ Adding widgets has never been easier with our new contextual widget spaces. Simp
 
 
 
-
 # Navigation
 To set your menus, locate the Menu options by selecting the “Appearance” tab from the dashboard sidebar and then “Menus”.
 
@@ -106,7 +111,7 @@ Once you’re viewing the Menus, create a new menu and save it. After you’ve s
 ## Social Menu
 The social icons added to your menu will automatically populate in the site footer. To add the icons, simply create a custom link to the social media location and Ava will do the rest.
 
-To also display the inputted social icons in the sidebar, simply check the Navigational Social Icons checkbox within the Customizer \> Settings \> Headersection.
+To also display the inputted social icons in the sidebar, simply check the Navigational Social Icons checkbox within the Customizer \> Settings \> Header section.
 
 
 
@@ -115,7 +120,7 @@ To also display the inputted social icons in the sidebar, simply check the Navig
 
 1. **How do I update my theme?** With an active license key, you’ll receive a notification in the WordPress Dashboard whenever there is an update available. You can then update right in your WordPress dashboard, keeping your site healthy and secure.
 
-2. **How do I get help?** You can request support via our offical [Help Center][5]. We’re here to help with any technical questions, though customization requests should be directed [here][6].
+2. **How do I get help?** You can request support via our official [Help Center][5]. We’re here to help with any technical questions, though customization requests should be directed [here][6].
 
 3. **Do I need a theme license key?** You don’t need a key to use the theme, but in order to receive support and in-dashboard update notifications, an active license key is required.
 

@@ -37,6 +37,9 @@ In order to get the best looking images in Ava, we need to refresh your images t
 
 After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then press the **Regenerate All Thumbnails** button to start generating new image sizes. Once it’s finished, your library of images will be optimized and ready to go.
 
+## 6. The Blog
+You don't need a blog template or Beaver Builder template to achieve the blog layout. Simply assign a page as the Posts page in the Customizer \> Static Front Page setting. 
+
 
 
 
@@ -111,7 +114,7 @@ Once you’re viewing the Menus, create a new menu and save it. After you’ve s
 ## Social Menu
 The social icons added to your menu will automatically populate in the site footer. To add the icons, simply create a custom link to the social media location and Ava will do the rest.
 
-To also display the inputted social icons in the sidebar, simply check the Navigational Social Icons checkbox within the Customizer \> Settings \> Header section.
+​After you have added the menu links, you need to "turn them on" via the Customizer \> Site Editor sections. For example, the Colophon Social Menu, at the bottom of the pages in live demo, is activated via the Colophon Social option, in the Site Editor \> Colophon section.
 
 
 
@@ -131,6 +134,8 @@ To also display the inputted social icons in the sidebar, simply check the Navig
 6. **Can I use my theme with an expired license** You sure can! You just won’t have access to in-dashboard updates, as well as our support team.
 
 7. **What paid version of Beaver Builder should I use?**  If you’re running a multisite installation, you’ll want the Pro version - otherwise, the standard package should do the trick. [Click here][8] for more info. Note that the paid version is not required, though it does offer extended functionality.
+
+
 
 
 # Need Help?

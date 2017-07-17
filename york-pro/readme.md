@@ -14,7 +14,7 @@ Copy this key and enter it into the **York Pro License** widget on your WordPres
 ## 2. Install the Child Theme
 If you plan on modifying anything within the theme files directly, please install the included child theme. If you change anything within the theme folder and approve an update from our servers **your modifications will be lost**. By using a child theme you will ensure that your changes are preserved.
 
-Log in to your website's dashboard and navigate to the Dashboard \> Appearance \> Themes page. Click **Add New** and follow the directions to upload the ava-child.zip file, located in your theme’s package download.
+Log in to your website's dashboard and navigate to the Dashboard \> Appearance \> Themes page. Click **Add New** and follow the directions to upload the york-pro-child.zip file, located in your theme’s package download.
 
 Simply click **Activate** and both the York Pro theme and York Pro child theme will be active on your WordPress site. Now have at it.
 
@@ -28,7 +28,7 @@ When you first activate York Pro, it will look like a simple website with your e
 
 Optionally, you may install our York Pro demo data, which will populate your site with the pages you see on our live demo. This can give you a head start in setting up your site. Once you get your site setup and get the hang of it, you may delete the unwanted posts or pages as you see fit.
 
-You can find the ava.xml data file in the theme package download. You can install this XML file by going to **Tools** → **Import** → **WordPress** and click **Choose File**. Upload the XML file and follow the steps to import. Please note that you should have all required custom post type plugins installed before importing the data - otherwise, you’ll need to re-import the .xml file.
+You can find the york-pro.xml data file in the theme package download. You can install this XML file by going to **Tools** → **Import** → **WordPress** and click **Choose File**. Upload the XML file and follow the steps to import. Please note that you should have all required custom post type plugins installed before importing the data - otherwise, you’ll need to re-import the .xml file.
 
 When the demo data is finished importing, you should have several new posts and pages to work with going forward.
 

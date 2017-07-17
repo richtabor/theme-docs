@@ -43,7 +43,7 @@ You don't need a blog template or Beaver Builder template to achieve the blog la
 
 
 
-# Using Beaver Builder
+# Beaver Builder
 [Beaver Builder][3] is quite a powerful page builder. With relative ease you can recreate our live demo templates and build your own to suit your needs.
 
 ## Activating Beaver Builder
@@ -114,9 +114,6 @@ Once you’re viewing the Menus, create a new menu and save it. After you’ve s
 ## Social Menu
 The social icons added to your menu will automatically populate in the site footer. To add the icons, simply create a custom link to the social media location and Ava will do the rest.
 
-​After you have added the menu links, you need to "turn them on" via the Customizer \> Site Editor sections. For example, the Colophon Social Menu, at the bottom of the pages in live demo, is activated via the Colophon Social option, in the Site Editor \> Colophon section.
-
-
 
 
 # Frequently Asked
@@ -127,7 +124,7 @@ The social icons added to your menu will automatically populate in the site foot
 
 3. **Do I need a theme license key?** You don’t need a key to use the theme, but in order to receive support and in-dashboard update notifications, an active license key is required.
 
-4. **How do I get a license key** You can find your theme’s license key by checking your ThemeBeans purchase receipt or signing in to your ThemeBeans dashboard. If you purchased the theme from ThemeForest, you may [request your license key here][7].
+4. **How do I get a license key** You can find your theme’s license key by checking your ThemeBeans purchase receipt or signing in to your ThemeBeans dashboard. If you purchased the theme from ThemeForest, you may [request your license key here][10].
 
 5. **How long is my license key valid for?** Initial licenses are issued on an annual basis. If you’ve purchased from ThemeForest, you’ll have access to support and in-dashboard updates as long as you have a support package.
 
@@ -154,11 +151,12 @@ Have questions? [Get in touch][9] with a friendly member of our team and we’ll
 [2]:	https://wordpress.org/plugins/regenerate-thumbnails/ "Regenerate Thumbnails WordPress Plugin"
 [3]:	https://wordpress.org/plugins/beaver-builder-lite-version/
 [4]:	https://www.wpbeaverbuilder.com/?fla=1173
-[5]:	https://themebeans.com/support
-[6]:	https://themebeans.com/support
+[5]:	https://themebeans.com/contact
+[6]:	https://themebeans.com/contact
 [7]:	http://themebeans.com/customizations
 [8]:	https://www.wpbeaverbuilder.com/pricing?fla=1173
 [9]:	https://themebeans.com/support
+[10]:   https://themebeans.com/themeforest
 
 [image-1]:	http://docs.themebeans.com/ava/images/tgmpa.jpg "Installing Plugins"
 [image-2]:	http://docs.themebeans.com/ava/images/bb.jpg "Activating Beaver Builder"

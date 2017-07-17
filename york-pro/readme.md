@@ -120,4 +120,4 @@ Have questions? [Get in touch][6] with a friendly member of our team and we’ll
 [6]:	https://themebeans.com/contact
 
 [image-1]:	http://docs.themebeans.com/york-pro/images/tgmpa.jpg "Installing Plugins"
-[image-2]:	/images/menus.gif "Setting up your Menus in York Pro"
+[image-2]:	theme-docs/york-pro/images/menus.gif "Setting up your Menus in York Pro"

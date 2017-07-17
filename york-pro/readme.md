@@ -50,10 +50,12 @@ You don't need a blog template or Beaver Builder template to achieve the blog la
 
 
 
-# Navigation
+# Menus
 To set your menus, locate the Menu options by selecting the “Appearance” tab from the dashboard sidebar and then “Menus”.
 
 Once you’re viewing the Menus, create a new menu and save it. After you’ve saved the menu, you can add it to a menu via the Menu Settings, below the Menu Structure area. Add your pages and links to the menu you just created in the Menu Structure area.
+
+![][image-2]
 
 ## Footer Menu
 Add a footer menu to your webite simply by creating a menu and assigning it to the Footer Menu location - as described above.
@@ -86,11 +88,11 @@ To also display the social menu in the site flyout, select the Navigation Social
 
 1. **How do I update my theme?** With an active license key, you’ll receive a notification in the WordPress Dashboard whenever there is an update available. You can then update right in your WordPress dashboard, keeping your site healthy and secure.
 
-2. **How do I get help?** You can request support via our official [Help Center][5]. We’re here to help with any technical questions, though customization requests should be directed [here][4].
+2. **How do I get help?** You can request support via our official [Help Center][3]. We’re here to help with any technical questions, though any customization requests should be directed [here][4].
 
 3. **Do I need a theme license key?** You don’t need a key to use the theme, but in order to receive support and in-dashboard update notifications, an active license key is required.
 
-4. **How do I get a license key** You can find your theme’s license key by checking your ThemeBeans purchase receipt or signing in to your ThemeBeans dashboard. If you purchased the theme from ThemeForest, you may [request your license key here][6].
+4. **How do I get a license key** You can find your theme’s license key by checking your ThemeBeans purchase receipt or signing in to your ThemeBeans dashboard. If you purchased the theme from ThemeForest, you may [request your license key here][5].
 
 5. **How long is my license key valid for?** Initial licenses are issued on an annual basis. If you’ve purchased from ThemeForest, you’ll have access to support and in-dashboard updates as long as you have a support package.
 
@@ -100,7 +102,7 @@ To also display the social menu in the site flyout, select the Navigation Social
 
 
 # Need Help?
-Have questions? [Get in touch][5] with a friendly member of our team and we’ll be happy to help. 
+Have questions? [Get in touch][6] with a friendly member of our team and we’ll be happy to help. 
 
 ## Support Tips
 
@@ -110,11 +112,12 @@ Have questions? [Get in touch][5] with a friendly member of our team and we’ll
 
 **Please be nice.** You should always be nice to the support personal. The folks on our support team really do enjoy helping others, but you can really ruin their day by using negative words.
 
-[1]:    https://themebeans.com/themeforest "Request a License Key"
-[2]:    https://wordpress.org/plugins/regenerate-thumbnails/ "Regenerate Thumbnails WordPress Plugin"
-[3]:    https://themebeans.com/support
-[4]:    http://themebeans.com/customizations
-[5]:    https://themebeans.com/contact
-[6]:    https://themebeans.com/themeforest
+[1]:	https://themebeans.com/themeforest "Request a License Key"
+[2]:	https://wordpress.org/plugins/regenerate-thumbnails/ "Regenerate Thumbnails WordPress Plugin"
+[3]:	https://themebeans.com/contact
+[4]:	http://themebeans.com/customizations
+[5]:	https://themebeans.com/themeforest
+[6]:	https://themebeans.com/contact
 
-[image-1]:  http://docs.themebeans.com/ava/images/tgmpa.jpg "Installing Plugins"
+[image-1]:	http://docs.themebeans.com/york-pro/images/tgmpa.jpg "Installing Plugins"
+[image-2]:	/images/menus.gif "Setting up your Menus in York Pro"

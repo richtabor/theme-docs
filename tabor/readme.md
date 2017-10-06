@@ -21,9 +21,7 @@ Simply click **Activate** and both the Tabor theme and Tabor child theme will be
 ## 3. Install Demo Data
 When you first activate Tabor, it will look like a simple website with your existing content. This is expected since Tabor needs you to modify a few settings before it will look exactly like the demo. 
 
-Optionally, you may install our Tabor demo data, which will populate your site with the pages you see on our live demo. This can give you a head start in setting up your site. Once you get your site setup and get the hang of it, you may delete the unwanted posts or pages as you see fit.
-
-You can find the tabor.xml data file in the theme package download. You can install this XML file by going to **Tools** → **Import** → **WordPress** and click **Choose File**. Upload the XML file and follow the steps to import. Please note that you should have all required custom post type plugins installed before importing the data - otherwise, you’ll need to re-import the .xml file.
+You can find the tabor.xml data file in the theme package download. You can install this XML file by going to **Tools** → **Import** → **WordPress** and click **Choose File**. Upload the XML file and follow the steps to import. 
 
 When the demo data is finished importing, you should have several new posts and pages to work with going forward.
 

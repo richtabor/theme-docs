@@ -5,7 +5,7 @@
 
 
 ## 1. Activate your License
-It’s strongly recommended that you add your theme’s license key in the Tabor License widget on your WordPress Dashboard. By adding your key, you will activate the seamless theme updates and have access to our support team. 
+It’s strongly recommended that you add your theme’s license key in the Tabor License widget on your WordPress Dashboard. By adding your key, you will activate the seamless theme updates and have access to our support team.
 
 You can find your theme’s license key by checking your purchase receipt or signing in to your ThemeBeans dashboard. If you purchased the theme from ThemeForest, you may [request your license key here][1]. You’ll need your ThemeForest purchase code handy.
 
@@ -19,16 +19,16 @@ Log in to your website's dashboard and navigate to the Dashboard \> Appearance \
 Simply click **Activate** and both the Tabor theme and Tabor child theme will be active on your WordPress site. Now have at it.
 
 ## 3. Install Demo Data
-When you first activate Tabor, it will look like a simple website with your existing content. This is expected since Tabor needs you to modify a few settings before it will look exactly like the demo. 
+When you first activate Tabor, it will look like a simple website with your existing content. This is expected since Tabor needs you to modify a few settings before it will look exactly like the demo.
 
-You can find the tabor.xml data file in the theme package download. You can install this XML file by going to **Tools** → **Import** → **WordPress** and click **Choose File**. Upload the XML file and follow the steps to import. 
+You can find the tabor.xml data file in the theme package download. You can install this XML file by going to **Tools** → **Import** → **WordPress** and click **Choose File**. Upload the XML file and follow the steps to import.
 
 When the demo data is finished importing, you should have several new posts and pages to work with going forward.
 
 ## 4. Prepare your Images
 In order to get the best looking images in Tabor, we need to refresh your images to be cropped to Tabor’s image sizes. We do this with the [Regenerate Thumbnails][2] plugin.
 
-After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then press the **Regenerate All Thumbnails** button to start generating new image sizes. 
+After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then press the **Regenerate All Thumbnails** button to start generating new image sizes.
 
 Once it’s finished, your library of images will be optimized and ready to go.
 
@@ -58,6 +58,25 @@ From the “Static Front Page” panel, select the static page option. This will
 Next select the templated page you first created as the Front Page option. 
 
 Then hit the **Save & Publish** button up at the top of the Customizer window, and you should be all set.
+
+![][image-3]
+
+## 4. Home Page Demo Content
+
+<h1>Rich</h1>
+<h1>Tabor</h1>
+[typed text="ThemeBeans Founder, Designer"]
+
+![][image-3]
+
+## 5. Adding the typing animation header
+
+The typing animation can be added to any page's content through the use of the [typed] shortcode.
+
+Example:
+[typed text="ThemeBeans Founder, Designer, WordPress Developer"]
+
+Separate out the individual lines with a comma. That's it!
 
 ![][image-3]
 
@@ -95,7 +114,7 @@ The icons added to your Social Menu will automatically populate next to the site
 
 
 # Need Help?
-Have questions? [Get in touch][6] with a friendly member of our team and we’ll be happy to help. 
+Have questions? [Get in touch][6] with a friendly member of our team and we’ll be happy to help.
 
 ## Support Tips
 

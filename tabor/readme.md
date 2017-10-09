@@ -62,10 +62,12 @@ Then hit the **Save & Publish** button up at the top of the Customizer window, 
 ![][image-3]
 
 ## 4. Home Page Demo Content
-
+Below is the content to use to replicate the theme's demo.
+```
 <h1>Rich</h1>
 <h1>Tabor</h1>
 [typed text="ThemeBeans Founder, Designer"]
+```
 
 ![][image-3]
 
@@ -74,8 +76,9 @@ Then hit the **Save & Publish** button up at the top of the Customizer window, 
 The typing animation can be added to any page's content through the use of the [typed] shortcode.
 
 Example:
+```
 [typed text="ThemeBeans Founder, Designer, WordPress Developer"]
-
+```
 Separate out the individual lines with a comma. That's it!
 
 ![][image-3]

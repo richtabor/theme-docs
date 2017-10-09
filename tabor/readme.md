@@ -93,6 +93,9 @@ Add a footer menu to your website simply by creating a menu and assigning it to 
 The icons added to your Social Menu will automatically populate next to the site logo. To add the icons, add a link to your social media profile and the theme will do the rest.
 
 
+# OptinMonster
+>To repliate the live demo, install the [OptinMonster WordPress plugin][7] and add the OptinMonster widget to the Footer widget area. You'll want to use the Action optin theme, which is a Sidebar theme type.
+
 
 # Frequently Asked
 
@@ -127,6 +130,7 @@ Have questions? [Get in touch][6] with a friendly member of our team and we’ll
 [4]:	http://themebeans.com/customizations
 [5]:	https://themebeans.com/themeforest
 [6]:	https://themebeans.com/contact
+[7]:	https://wordpress.org/plugins/optinmonster/
 
 [image-1]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fecf50428637ff8d462b8/file-6DaAqO3m5Y.jpg "Open the Static Front Page panel, in the Customizer"
 [image-2]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fed1c0428637ff8d462bb/file-pyUecy41SC.jpg "Set a Static Page"

@@ -96,6 +96,11 @@ The icons added to your Social Menu will automatically populate next to the site
 # OptinMonster
 To repliate the live demo, install the [OptinMonster WordPress plugin][7] and add the OptinMonster widget to the Footer widget area. You'll want to use the Action optin theme, which is a Sidebar theme type.
 
+For the inline opt-in, you should use the "Action" theme from OptinMonster, with the Theme Type set to "After Post / Inline". Then simply add the shortcode to your post, wherever you see fit. Here's an example of the shortcode:
+```
+[optin-monster-shortcode id="yvm0geh9mdiokfipp6gk"]
+```
+
 
 # Frequently Asked
 

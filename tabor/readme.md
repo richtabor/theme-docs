@@ -64,6 +64,7 @@ Then hit the **Save & Publish** button up at the top of the Customizer window, 
 ## 4. Home Page Demo Content
 Below is the content to use to replicate the theme's demo.
 ```
+<h5>Hi, I'm</h5>
 <h1>Rich</h1>
 <h1>Tabor</h1>
 [typed text="ThemeBeans Founder, Designer"]

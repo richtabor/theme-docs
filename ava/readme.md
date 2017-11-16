@@ -5,9 +5,15 @@
 ## 1. Activate your License Key
 It’s strongly recommended that you add your theme’s license key from within the License section of the WordPress Customizer. By adding your key, you will activate the remote theme updates and have access to our support team.
 
-You can find your theme’s license key by checking your purchase receipt or signing in to your ThemeBeans dashboard. If you purchased the theme from ThemeForest, you may [request your license key here][1]. You’ll need your ThemeForest purchase code handy.
+You can find your theme’s license key by checking your purchase receipt or signing in to your ThemeBeans dashboard.
 
-Copy this key and enter it into the **Customizer License Control** located within at the WordPress Dashboard > Customizer > Theme License section. Enter your license key and hit activate. You'll see a "Verified" report upon a successful activation. If the license does not activate, please refresh and try again.
+If you purchased the theme from ThemeForest, you may [request your license key here][1]. You’ll need your ThemeForest purchase code handy.
+
+Copy this key and navigate to the **Customizer License Control** located within the **WordPress Dashboard > Customizer > Theme License** section.
+
+Enter your license key and hit activate.
+
+You'll see a "Verified" report upon a successful activation. If the license does not activate, please refresh and try again.
 
 ## 2. Install the Child Theme
 If you plan on modifying anything within the theme files directly, please install the included child theme. If you change anything within the theme folder and approve an update from our servers **your modifications will be lost**. By using a child theme you will ensure that your changes are preserved.

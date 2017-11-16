@@ -6,11 +6,17 @@
 
 
 ## 1 Activate your License
-It’s strongly recommended that you add your theme’s license key in the Designer License widget on your WordPress Dashboard. By adding your key, you will activate the seamless theme updates and have access to our support team. 
+It’s strongly recommended that you add your theme’s license key from within the License section of the WordPress Customizer. By adding your key, you will activate the remote theme updates and have access to our support team.
 
-You can find your theme’s license key by checking your purchase receipt or signing in to your ThemeBeans dashboard. If you purchased the theme from ThemeForest, you may [request your license key here][1]. You’ll need your ThemeForest purchase code handy.
+You can find your theme’s license key by checking your purchase receipt or signing in to your ThemeBeans dashboard.
 
-Copy this key and enter it into the **Designer License** widget on your WordPress Dashboard. Save and activate your license key.
+If you purchased the theme from ThemeForest, you may [request your license key here][1]. You’ll need your ThemeForest purchase code handy.
+
+Copy this key and navigate to the **Customizer License Control** located within the **WordPress Dashboard > Customizer > Theme License** section.
+
+Enter your license key and hit activate.
+
+You'll see a "Verified" report upon a successful activation. If the license does not activate, please refresh and try again.
 
 ## 2. Install the Child Theme
 If you plan on modifying anything within the theme files directly, please install the included child theme. If you change anything within the theme folder and approve an update from our servers **your modifications will be lost**. By using a child theme you will ensure that your changes are preserved.
@@ -34,7 +40,7 @@ When the demo data is finished importing, you should have several new posts and 
 ## 5. Prepare your Images
 In order to get the best looking images in Designer, we need to refresh your images to be cropped to Designer’s image sizes. We do this with the [Regenerate Thumbnails][2] plugin.
 
-After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then press the **Regenerate All Thumbnails** button to start generating new image sizes. 
+After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then press the **Regenerate All Thumbnails** button to start generating new image sizes.
 
 Once it’s finished, your library of images will be optimized and ready to go.
 
@@ -185,7 +191,7 @@ In the Customizer you’ll find the single portfolio Call to Action settings. Yo
 
 
 # Need Help?
-Have questions? [Get in touch][8] with a friendly member of our team and we’ll be happy to help. 
+Have questions? [Get in touch][8] with a friendly member of our team and we’ll be happy to help.
 
 ## Support Tips
 

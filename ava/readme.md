@@ -3,11 +3,11 @@
 # Getting Started
 
 ## 1. Activate your License Key
-It’s strongly recommended that you add your theme’s license key in the Ava License widget on your WordPress Dashboard. By adding your key, you will activate the seamless theme updates and have access to our support team. 
+It’s strongly recommended that you add your theme’s license key from within the License section of the WordPress Customizer. By adding your key, you will activate the remote theme updates and have access to our support team.
 
 You can find your theme’s license key by checking your purchase receipt or signing in to your ThemeBeans dashboard. If you purchased the theme from ThemeForest, you may [request your license key here][1]. You’ll need your ThemeForest purchase code handy.
 
-Copy this key and enter it into the **Ava License** widget on your WordPress Dashboard. Save and activate your license key.
+Copy this key and enter it into the **Customizer License Control** located within at the WordPress Dashboard > Customizer > Theme License section. Enter your license key and hit activate. You'll see a "Verified" report upon a successful activation. If the license does not activate, please refresh and try again.
 
 ## 2. Install the Child Theme
 If you plan on modifying anything within the theme files directly, please install the included child theme. If you change anything within the theme folder and approve an update from our servers **your modifications will be lost**. By using a child theme you will ensure that your changes are preserved.
@@ -24,7 +24,7 @@ Once clicked, you will be taken to the Plugin Installation admin view, where you
 ![][image-1]
 
 ## 4. Install the Demo Data
-When you first activate Ava, it will look like a simple website with your existing content. This is expected since Ava needs you to modify a few settings before it will look exactly like the demo. 
+When you first activate Ava, it will look like a simple website with your existing content. This is expected since Ava needs you to modify a few settings before it will look exactly like the demo.
 
 Optionally, you may install our Ava demo data, which will populate your site with the pages you see on our live demo. This can give you a head start in setting up your site. Once you get your site setup and get the hang of it, you may delete the unwanted posts or pages as you see fit.
 
@@ -38,7 +38,7 @@ In order to get the best looking images in Ava, we need to refresh your images t
 After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then press the **Regenerate All Thumbnails** button to start generating new image sizes. Once it’s finished, your library of images will be optimized and ready to go.
 
 ## 6. The Blog
-You don't need a blog template or Beaver Builder template to achieve the blog layout. Simply assign a page as the Posts page in the Customizer \> Static Front Page setting. 
+You don't need a blog template or Beaver Builder template to achieve the blog layout. Simply assign a page as the Posts page in the Customizer \> Static Front Page setting.
 
 
 
@@ -59,7 +59,7 @@ There are two groups of templates: Ava Templates - which comprise of the various
 ![][image-3]
 
 ## Using Modules
-We’ve built quite a few custom modules that are packaged within Ava. You can use these modules to build out any web page as you see fit. Any modules can be placed on any page - giving you unlimited possibilities. 
+We’ve built quite a few custom modules that are packaged within Ava. You can use these modules to build out any web page as you see fit. Any modules can be placed on any page - giving you unlimited possibilities.
 
 ## Set Global Settings
 You can use Beaver Builder’s Global Settings to change default settings for whether rows are full width or fixed, and, if fixed width, the maximum width in pixels for the row. By setting the default row width and row content width settings, it means that every time you create a row, the row widths are initially set to those defaults. You are free to change individual row settings to something else.
@@ -81,7 +81,7 @@ Beaver Builder is really a great product and we’re committed to developing mor
 
 ## Beaver Builder Pro Modules
 
-Beaver Builder Pro has quite a few great modules that we have included support for in Ava. Please not that all modules on the live demo are available on the free version of Beaver Builder, except for the Accordion module as seen on the Ava demo FAQ page. 
+Beaver Builder Pro has quite a few great modules that we have included support for in Ava. Please not that all modules on the live demo are available on the free version of Beaver Builder, except for the Accordion module as seen on the Ava demo FAQ page.
 
 To add accordions (and other shortcodes), simply add the shortcode to the Text Editor module within the builder.
 
@@ -99,7 +99,7 @@ You'll notice various "Edit" elements throughout the Customizer Site Editor view
 There are hundreds of theme options within Ava to let you modify colors, theme elements (headers, footers, etc), sizes, positioning, fonts and icons.
 
 ## Widget Areas
-Adding widgets has never been easier with our new contextual widget spaces. Simply click on the little "nibs" to add a widget, select your widget from the panel - and you're done. 
+Adding widgets has never been easier with our new contextual widget spaces. Simply click on the little "nibs" to add a widget, select your widget from the panel - and you're done.
 
 ![][image-5]
 
@@ -136,7 +136,7 @@ The social icons added to your menu will automatically populate in the site foot
 
 
 # Need Help?
-Have questions? [Get in touch][9] with a friendly member of our team and we’ll be happy to help. 
+Have questions? [Get in touch][9] with a friendly member of our team and we’ll be happy to help.
 
 
 ## Support Tips

@@ -5,11 +5,17 @@
 
 
 ## 1 Activate your License
-It’s strongly recommended that you add your theme’s license key in the York Pro License widget on your WordPress Dashboard. By adding your key, you will activate the seamless theme updates and have access to our support team. 
+It’s strongly recommended that you add your theme’s license key from within the License section of the WordPress Customizer. By adding your key, you will activate the remote theme updates and have access to our support team.
 
-You can find your theme’s license key by checking your purchase receipt or signing in to your ThemeBeans dashboard. If you purchased the theme from ThemeForest, you may [request your license key here][1]. You’ll need your ThemeForest purchase code handy.
+You can find your theme’s license key by checking your purchase receipt or signing in to your ThemeBeans dashboard.
 
-Copy this key and enter it into the **York Pro License** widget on your WordPress Dashboard. Save and activate your license key.
+If you purchased the theme from ThemeForest, you may [request your license key here][1]. You’ll need your ThemeForest purchase code handy.
+
+Copy this key and navigate to the **Customizer License Control** located within the **WordPress Dashboard > Customizer > Theme License** section.
+
+Enter your license key and hit activate.
+
+You'll see a "Verified" report upon a successful activation. If the license does not activate, please refresh and try again.
 
 ## 2. Install the Child Theme
 If you plan on modifying anything within the theme files directly, please install the included child theme. If you change anything within the theme folder and approve an update from our servers **your modifications will be lost**. By using a child theme you will ensure that your changes are preserved.
@@ -24,7 +30,7 @@ Please install the recommended WordPress plugins through the notice at the top o
 Once clicked, you will be taken to the Plugin Installation admin view, where you may install and activate each plugin, as depicted here:
 
 ## 4. Install Demo Data
-When you first activate York Pro, it will look like a simple website with your existing content. This is expected since York Pro needs you to modify a few settings before it will look exactly like the demo. 
+When you first activate York Pro, it will look like a simple website with your existing content. This is expected since York Pro needs you to modify a few settings before it will look exactly like the demo.
 
 Optionally, you may install our York Pro demo data, which will populate your site with the pages you see on our live demo. This can give you a head start in setting up your site. Once you get your site setup and get the hang of it, you may delete the unwanted posts or pages as you see fit.
 
@@ -35,7 +41,7 @@ When the demo data is finished importing, you should have several new posts and 
 ## 5. Prepare your Images
 In order to get the best looking images in York Pro, we need to refresh your images to be cropped to York Pro’s image sizes. We do this with the [Regenerate Thumbnails][2] plugin.
 
-After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then press the **Regenerate All Thumbnails** button to start generating new image sizes. 
+After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then press the **Regenerate All Thumbnails** button to start generating new image sizes.
 
 Once it’s finished, your library of images will be optimized and ready to go.
 
@@ -118,7 +124,7 @@ Just remember to hit Save Gallery and you're all set.
 
 ## 5. Captions
 
-You may add captions to your portfolio gallery image uploads within the Edit Gallery modal (_the same modal where you orignially uploaded images to your portfolio post_). 
+You may add captions to your portfolio gallery image uploads within the Edit Gallery modal (_the same modal where you orignially uploaded images to your portfolio post_).
 
 Just add your caption to the "Caption this image" text box directly below each image, and your caption will appear on the portfolio post.
 
@@ -163,7 +169,7 @@ Located within the Theme Customizer you will find a Portfolio section of options
 
 
 # Need Help?
-Have questions? [Get in touch][7] with a friendly member of our team and we’ll be happy to help. 
+Have questions? [Get in touch][7] with a friendly member of our team and we’ll be happy to help.
 
 ## Support Tips
 

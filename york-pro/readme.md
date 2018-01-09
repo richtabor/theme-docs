@@ -11,7 +11,7 @@ You can find your theme’s license key by checking your purchase receipt or sig
 
 If you purchased the theme from ThemeForest, you may [request your license key here][1]. You’ll need your ThemeForest purchase code handy.
 
-Copy this key and navigate to the **Customizer License Control** located within the **WordPress Dashboard > Customizer > Theme License** section.
+Copy this key and navigate to the **Customizer License Control** located within the **WordPress Dashboard \> Customizer \> Theme License** section.
 
 Enter your license key and hit activate.
 
@@ -53,20 +53,18 @@ Once it’s finished, your library of images will be optimized and ready to go.
 If you're using a WordPress theme that has a templated home page, then you need to create a new page and assign the necessary template. Here's a quick guide to help you get started.
 
 ## 1. Create a New Page
-First, create a new page on your website, with the **WP Dashboard** \> **Pages** \> **Add New** link. Then assign a template to your new page, as pictured below:
-
-![][image-1]
+First, create a new page on your website, with the **WP Dashboard** \> **Pages** \> **Add New** link. 
 
 ## 2. Navigate to the Customizer
 Next, you will need to set the page as your site's front page, via the **WP Dashboard** \> **Appearance** \> **Customize** page, within the Static Front Page panel. 
 
-![][image-2]
+![][image-1]
 
 ## 3. Set a Static Page
 
 Next, to establish a static page, open the **Static Front Page** panel, within the Customizer.
 
-![][image-3]
+![][image-2]
 
 ## 4. Assign a Front Page
 
@@ -76,7 +74,7 @@ Next select the templated page you first created as the Front Page option. 
 
 Then hit the **Save & Publish** button up at the top of the Customizer window, and you should be all set.
 
-![][image-4]
+![][image-3]
 
 
 
@@ -120,7 +118,7 @@ This is where you will add your images to the post by clicking the "Browse & Upl
 
 Just remember to hit Save Gallery and you're all set.
 
-![][image-5]
+![][image-4]
 
 ## 5. Captions
 
@@ -128,13 +126,13 @@ You may add captions to your portfolio gallery image uploads within the Edit Gal
 
 Just add your caption to the "Caption this image" text box directly below each image, and your caption will appear on the portfolio post.
 
-![][image-6]
+![][image-5]
 
 ## 6. Formats
 
 York Pro is capable of outputting gallery and video portfolio posts (embedded - e.g. Vimeo & YouTube). To change the type of portfolio to display, click on the checkboxes under the "**Portfolio Format**" metabox, located beneath the Portfolio Categories, on the right hand side of your window.
 
-![][image-7]
+![][image-6]
 
 ## 7. Meta
 
@@ -142,13 +140,13 @@ Each portfolio post has selectable meta options that you may choose to use on ea
 
 You can also add an external URL to which your post loop will link to a different URL than it's single post page. For example, you can create a post with a featured image and an external link to your Behance project page - then promote that project within the portfolio templates.
 
-![][image-8]
+![][image-7]
 
 ## 8. Options
 
 Located within the Theme Customizer you will find a Portfolio section of options. Here you may elect to enable the singular portfolio loop, portfolio sorting, lazy-loading, PhotoSwipe and enter your portfolio count.
 
-![][image-9]
+![][image-8]
 
 
 # Frequently Asked
@@ -187,12 +185,11 @@ Have questions? [Get in touch][7] with a friendly member of our team and we’ll
 [6]:	https://themebeans.com/themeforest
 [7]:	https://themebeans.com/contact
 
-[image-1]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595ff0262c7d3a707d7b83df/file-Uwb9DvvQyK.jpg "Create a New Page"
-[image-2]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fecf50428637ff8d462b8/file-6DaAqO3m5Y.jpg "Open the Static Front Page panel, in the Customizer"
-[image-3]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fed1c0428637ff8d462bb/file-pyUecy41SC.jpg "Set a Static Page"
-[image-4]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fee092c7d3a707d7b83c1/file-kPOj2r5Dq3.jpg "Assign a new Front Page"
-[image-5]:	http://docs.themebeans.com/york/images/gallery-images.jpg
-[image-6]:	http://docs.themebeans.com/york/images/captions.jpg
-[image-7]:	http://docs.themebeans.com/york/images/portfolio-post-formats.jpg
-[image-8]:	http://docs.themebeans.com/york/images/gallery-images.jpg
-[image-9]:	http://docs.themebeans.com/york/images/cta.jpg
+[image-1]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fecf50428637ff8d462b8/file-6DaAqO3m5Y.jpg "Open the Static Front Page panel, in the Customizer"
+[image-2]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fed1c0428637ff8d462bb/file-pyUecy41SC.jpg "Set a Static Page"
+[image-3]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fee092c7d3a707d7b83c1/file-kPOj2r5Dq3.jpg "Assign a new Front Page"
+[image-4]:	http://docs.themebeans.com/york/images/gallery-images.jpg
+[image-5]:	http://docs.themebeans.com/york/images/captions.jpg
+[image-6]:	http://docs.themebeans.com/york/images/portfolio-post-formats.jpg
+[image-7]:	http://docs.themebeans.com/york/images/gallery-images.jpg
+[image-8]:	http://docs.themebeans.com/york/images/cta.jpg

@@ -101,7 +101,7 @@ The icons added to your Social Menu will automatically populate next to the site
 
 
 # OptinMonster
-To repliate the live demo, install the [OptinMonster WordPress plugin][7] and hook up your OptinMonster account. 
+To replicate the live demo, install the [OptinMonster WordPress plugin][7] and hook up your OptinMonster account. 
 
 ## The Footer Optin
 To add the footer optin, create your optin in OptinMonster, then add the OptinMonster widget to the Footer widget area with your new optin set to display. You'll want to use the Action optin theme in OptinMonster, which is a Sidebar theme type.

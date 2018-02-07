@@ -152,11 +152,11 @@ Have questions? [Get in touch][6] with a friendly member of our team and we’ll
 [1]:	https://themebeans.com/themeforest "Request a License Key"
 [2]:	https://wordpress.org/plugins/regenerate-thumbnails/ "Regenerate Thumbnails WordPress Plugin"
 [3]:	https://themebeans.com/contact
-[4]:	http://themebeans.com/customizations
+[4]:	https://themebeans.com/customizations
 [5]:	https://themebeans.com/themeforest
 [6]:	https://themebeans.com/contact
 [7]:	https://wordpress.org/plugins/optinmonster/
 
-[image-1]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fecf50428637ff8d462b8/file-6DaAqO3m5Y.jpg "Open the Static Front Page panel, in the Customizer"
-[image-2]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fed1c0428637ff8d462bb/file-pyUecy41SC.jpg "Set a Static Page"
-[image-3]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fee092c7d3a707d7b83c1/file-kPOj2r5Dq3.jpg "Assign a new Front Page"
+[image-1]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fecf50428637ff8d462b8/file-6DaAqO3m5Y.jpg "Open the Static Front Page panel, in the Customizer"
+[image-2]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fed1c0428637ff8d462bb/file-pyUecy41SC.jpg "Set a Static Page"
+[image-3]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fee092c7d3a707d7b83c1/file-kPOj2r5Dq3.jpg "Assign a new Front Page"

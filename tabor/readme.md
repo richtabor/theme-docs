@@ -17,6 +17,8 @@ Enter your license key and hit activate.
 
 You'll see a "Verified" report upon a successful activation. If the license does not activate, please refresh and try again.
 
+![license](https://user-images.githubusercontent.com/1813435/35998629-3c35ec10-0ceb-11e8-9c56-e90accdc3a17.jpg)
+
 ## 2. Install the Child Theme
 If you plan on modifying anything within the theme files directly, please install the included child theme. If you change anything within the theme folder and approve an update from our servers **your modifications will be lost**. By using a child theme you will ensure that your changes are preserved.
 
@@ -101,7 +103,7 @@ The icons added to your Social Menu will automatically populate next to the site
 
 
 # OptinMonster
-To replicate the live demo, install the [OptinMonster WordPress plugin][7] and hook up your OptinMonster account. 
+To replicate the live demo, install the [OptinMonster WordPress plugin][7] and hook up your OptinMonster account.
 
 ## The Footer Optin
 To add the footer optin, create your optin in OptinMonster, then add the OptinMonster widget to the Footer widget area with your new optin set to display. You'll want to use the Action optin theme in OptinMonster, which is a Sidebar theme type.

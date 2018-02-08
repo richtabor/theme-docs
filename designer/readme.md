@@ -18,6 +18,9 @@ Enter your license key and hit activate.
 
 You'll see a "Verified" report upon a successful activation. If the license does not activate, please refresh and try again.
 
+![license](https://user-images.githubusercontent.com/1813435/35998646-4876974a-0ceb-11e8-8b20-78decf11c1d1.jpg)
+
+
 ## 2. Install the Child Theme
 If you plan on modifying anything within the theme files directly, please install the included child theme. If you change anything within the theme folder and approve an update from our servers **your modifications will be lost**. By using a child theme you will ensure that your changes are preserved.
 

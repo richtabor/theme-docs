@@ -164,8 +164,8 @@ s[7]:	https://themebeans.com/customizations
 [9]:	https://themebeans.com/support
 [10]:   https://themebeans.com/themeforest
 
-[image-1]:	http://docs.themebeans.com/ava/images/tgmpa.jpg "Installing Plugins"
-[image-2]:	http://docs.themebeans.com/ava/images/bb.jpg "Activating Beaver Builder"
-[image-3]:	http://docs.themebeans.com/ava/images/bb-1.jpg "Selecting a Template"
-[image-4]:	http://docs.themebeans.com/ava/images/bb-2.jpg "Selecting a Template"
-[image-5]:	http://docs.themebeans.com/ava/images/editor-4.jpg "Selecting a Template"
+[image-1]:	https://user-images.githubusercontent.com/1813435/35998289-262e5b56-0cea-11e8-92d4-9e682e301ff2.jpg "Installing Plugins"
+[image-2]:	https://user-images.githubusercontent.com/1813435/35998374-644cd142-0cea-11e8-8134-aa92266f54f3.jpg "Activating Beaver Builder"
+[image-3]:	https://user-images.githubusercontent.com/1813435/35998320-37902604-0cea-11e8-9083-ddb557a1ba5b.jpg "Selecting a Template"
+[image-4]:	https://user-images.githubusercontent.com/1813435/35998323-3903e3c2-0cea-11e8-91ee-313f7835d20f.jpg "Selecting a Template"
+[image-5]:	https://user-images.githubusercontent.com/1813435/35998360-58986c8a-0cea-11e8-89c0-303aef4c2619.jpg "Selecting a Template"

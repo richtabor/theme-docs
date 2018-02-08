@@ -15,6 +15,8 @@ Copy this key and navigate to the **Customizer License Control** located within 
 
 Enter your license key and hit activate.
 
+![license](https://user-images.githubusercontent.com/1813435/35998529-f25c6af6-0cea-11e8-8622-449224c5b377.jpg)
+
 You'll see a "Verified" report upon a successful activation. If the license does not activate, please refresh and try again.
 
 ## 2. Install the Child Theme
@@ -188,8 +190,8 @@ Have questions? [Get in touch][7] with a friendly member of our team and we’ll
 [image-1]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fecf50428637ff8d462b8/file-6DaAqO3m5Y.jpg "Open the Static Front Page panel, in the Customizer"
 [image-2]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fed1c0428637ff8d462bb/file-pyUecy41SC.jpg "Set a Static Page"
 [image-3]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fee092c7d3a707d7b83c1/file-kPOj2r5Dq3.jpg "Assign a new Front Page"
-[image-4]:	http://docs.themebeans.com/york/images/gallery-images.jpg
-[image-5]:	http://docs.themebeans.com/york/images/captions.jpg
-[image-6]:	http://docs.themebeans.com/york/images/portfolio-post-formats.jpg
-[image-7]:	http://docs.themebeans.com/york/images/gallery-images.jpg
-[image-8]:	http://docs.themebeans.com/york/images/cta.jpg
+[image-4]:	https://user-images.githubusercontent.com/1813435/35998489-ca1d6ad6-0cea-11e8-83d3-fc3e5a27cee0.jpg
+[image-5]:	https://user-images.githubusercontent.com/1813435/35998487-ca00c052-0cea-11e8-9526-954a3a9e44d7.jpg
+[image-6]:	https://user-images.githubusercontent.com/1813435/35998490-ca37f95a-0cea-11e8-8d94-7f3014afaf14.jpg
+[image-7]:	https://user-images.githubusercontent.com/1813435/35998489-ca1d6ad6-0cea-11e8-83d3-fc3e5a27cee0.jpg
+[image-8]:	https://user-images.githubusercontent.com/1813435/35998488-ca0eb112-0cea-11e8-8534-6cb417910b60.jpg

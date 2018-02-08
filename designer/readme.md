@@ -214,9 +214,9 @@ Have questions? [Get in touch][8] with a friendly member of our team and we’ll
 [image-2]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fecf50428637ff8d462b8/file-6DaAqO3m5Y.jpg "Open the Static Front Page panel, in the Customizer"
 [image-3]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fed1c0428637ff8d462bb/file-pyUecy41SC.jpg "Set a Static Page"
 [image-4]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fee092c7d3a707d7b83c1/file-kPOj2r5Dq3.jpg "Assign a new Front Page"
-[image-5]:	http://docs.themebeans.com/designer/images/template-settings.jpg
-[image-6]:	http://docs.themebeans.com/designer/images/gallery-images.jpg
-[image-7]:	http://docs.themebeans.com/designer/images/portfolio-post-formats.jpg
-[image-8]:	http://docs.themebeans.com/designer/images/gallery-images.jpg
-[image-9]:	http://docs.themebeans.com/designer/images/cta.jpg
-[image-10]:	http://docs.themebeans.com/designer/images/contact-links.jpg
+[image-5]:	https://user-images.githubusercontent.com/1813435/35998432-9345786e-0cea-11e8-9e9b-d7f172ad5ef8.jpg
+[image-6]:	https://user-images.githubusercontent.com/1813435/35998452-a36321b0-0cea-11e8-8b24-d59227af73ff.jpg
+[image-7]:	https://user-images.githubusercontent.com/1813435/35998453-a37ae5de-0cea-11e8-8a81-a07226b26184.jpg
+[image-8]:	https://user-images.githubusercontent.com/1813435/35998452-a36321b0-0cea-11e8-8b24-d59227af73ff.jpg
+[image-9]:	https://user-images.githubusercontent.com/1813435/35998451-a34eac80-0cea-11e8-98a1-110d3a5990f1.jpg
+[image-10]:	https://user-images.githubusercontent.com/1813435/35998450-a3407336-0cea-11e8-80ab-e3c6121b610b.jpg

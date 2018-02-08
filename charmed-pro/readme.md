@@ -173,7 +173,7 @@ Have questions? [Get in touch][7] with a friendly member of our team and we’ll
 [image-2]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fecf50428637ff8d462b8/file-6DaAqO3m5Y.jpg "Open the Static Front Page panel, in the Customizer"
 [image-3]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fed1c0428637ff8d462bb/file-pyUecy41SC.jpg "Set a Static Page"
 [image-4]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fee092c7d3a707d7b83c1/file-kPOj2r5Dq3.jpg "Assign a new Front Page"
-[image-5]:	http://docs.themebeans.com/charmed/images/gallery-images.jpg
-[image-6]:	http://docs.themebeans.com/charmed/images/portfolio-post-formats.jpg
-[image-7]:	http://docs.themebeans.com/charmed/images/gallery-images.jpg
-[image-8]:	http://docs.themebeans.com/charmed/images/cta.jpg
+[image-5]:	https://user-images.githubusercontent.com/1813435/35997204-d35e6a86-0ce6-11e8-9b43-e291a803a691.jpg
+[image-6]:	https://user-images.githubusercontent.com/1813435/35997243-eb17aea8-0ce6-11e8-842a-45960b33b5e1.jpg
+[image-7]:	https://user-images.githubusercontent.com/1813435/35997204-d35e6a86-0ce6-11e8-9b43-e291a803a691.jpg
+[image-8]:	https://user-images.githubusercontent.com/1813435/35997196-cc04ec4c-0ce6-11e8-9716-d7ef15062a3c.jpg

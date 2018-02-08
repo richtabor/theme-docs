@@ -159,7 +159,7 @@ Have questions? [Get in touch][9] with a friendly member of our team and we’ll
 [4]:	https://www.wpbeaverbuilder.com/?fla=1173
 [5]:	https://themebeans.com/contact
 [6]:	https://themebeans.com/contact
-[7]:	http://themebeans.com/customizations
+s[7]:	https://themebeans.com/customizations
 [8]:	https://www.wpbeaverbuilder.com/pricing?fla=1173
 [9]:	https://themebeans.com/support
 [10]:   https://themebeans.com/themeforest

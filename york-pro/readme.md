@@ -53,7 +53,7 @@ Once it’s finished, your library of images will be optimized and ready to go.
 If you're using a WordPress theme that has a templated home page, then you need to create a new page and assign the necessary template. Here's a quick guide to help you get started.
 
 ## 1. Create a New Page
-First, create a new page on your website, with the **WP Dashboard** \> **Pages** \> **Add New** link. 
+First, create a new page on your website, with the **WP Dashboard** \> **Pages** \> **Add New** link.
 
 ## 2. Navigate to the Customizer
 Next, you will need to set the page as your site's front page, via the **WP Dashboard** \> **Appearance** \> **Customize** page, within the Static Front Page panel. 
@@ -181,13 +181,13 @@ Have questions? [Get in touch][7] with a friendly member of our team and we’ll
 [2]:	https://wordpress.org/plugins/regenerate-thumbnails/ "Regenerate Thumbnails WordPress Plugin"
 [3]:	https://themebeans.com/plugins/bean-portfolio
 [4]:	https://themebeans.com/contact
-[5]:	http://themebeans.com/customizations
+[5]:	https://themebeans.com/customizations
 [6]:	https://themebeans.com/themeforest
 [7]:	https://themebeans.com/contact
 
-[image-1]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fecf50428637ff8d462b8/file-6DaAqO3m5Y.jpg "Open the Static Front Page panel, in the Customizer"
-[image-2]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fed1c0428637ff8d462bb/file-pyUecy41SC.jpg "Set a Static Page"
-[image-3]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fee092c7d3a707d7b83c1/file-kPOj2r5Dq3.jpg "Assign a new Front Page"
+[image-1]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fecf50428637ff8d462b8/file-6DaAqO3m5Y.jpg "Open the Static Front Page panel, in the Customizer"
+[image-2]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fed1c0428637ff8d462bb/file-pyUecy41SC.jpg "Set a Static Page"
+[image-3]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fee092c7d3a707d7b83c1/file-kPOj2r5Dq3.jpg "Assign a new Front Page"
 [image-4]:	http://docs.themebeans.com/york/images/gallery-images.jpg
 [image-5]:	http://docs.themebeans.com/york/images/captions.jpg
 [image-6]:	http://docs.themebeans.com/york/images/portfolio-post-formats.jpg

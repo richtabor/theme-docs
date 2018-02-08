@@ -33,7 +33,7 @@ When the demo data is finished importing, you should have several new posts and 
 ## 5. Prepare your Images
 In order to get the best looking images in Charmed Pro, we need to refresh your images to be cropped to Charmed Pro’s image sizes. We do this with the [Regenerate Thumbnails][2] plugin.
 
-After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then press the **Regenerate All Thumbnails** button to start generating new image sizes. 
+After activating the plugin, go to **Tools** → **Regen. Thumbnails**, then press the **Regenerate All Thumbnails** button to start generating new image sizes.
 
 Once it’s finished, your library of images will be optimized and ready to go.
 
@@ -151,7 +151,7 @@ In the Customizer you’ll find the single portfolio Call to Action settings. Yo
 
 
 # Need Help?
-Have questions? [Get in touch][7] with a friendly member of our team and we’ll be happy to help. 
+Have questions? [Get in touch][7] with a friendly member of our team and we’ll be happy to help.
 
 ## Support Tips
 
@@ -165,14 +165,14 @@ Have questions? [Get in touch][7] with a friendly member of our team and we’ll
 [2]:	https://wordpress.org/plugins/regenerate-thumbnails/ "Regenerate Thumbnails WordPress Plugin"
 [3]:	https://themebeans.com/plugins/bean-portfolio
 [4]:	https://themebeans.com/contact
-[5]:	http://themebeans.com/customizations
+[5]:	https://themebeans.com/customizations
 [6]:	https://themebeans.com/themeforest
 [7]:	https://themebeans.com/contact
 
-[image-1]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595ff0262c7d3a707d7b83df/file-Uwb9DvvQyK.jpg "Create a New Page"
-[image-2]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fecf50428637ff8d462b8/file-6DaAqO3m5Y.jpg "Open the Static Front Page panel, in the Customizer"
-[image-3]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fed1c0428637ff8d462bb/file-pyUecy41SC.jpg "Set a Static Page"
-[image-4]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fee092c7d3a707d7b83c1/file-kPOj2r5Dq3.jpg "Assign a new Front Page"
+[image-1]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595ff0262c7d3a707d7b83df/file-Uwb9DvvQyK.jpg "Create a New Page"
+[image-2]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fecf50428637ff8d462b8/file-6DaAqO3m5Y.jpg "Open the Static Front Page panel, in the Customizer"
+[image-3]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fed1c0428637ff8d462bb/file-pyUecy41SC.jpg "Set a Static Page"
+[image-4]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fee092c7d3a707d7b83c1/file-kPOj2r5Dq3.jpg "Assign a new Front Page"
 [image-5]:	http://docs.themebeans.com/charmed/images/gallery-images.jpg
 [image-6]:	http://docs.themebeans.com/charmed/images/portfolio-post-formats.jpg
 [image-7]:	http://docs.themebeans.com/charmed/images/gallery-images.jpg

@@ -206,14 +206,14 @@ Have questions? [Get in touch][8] with a friendly member of our team and we’ll
 [3]:	https://gist.github.com/richtabor/f95171410f2d0f575ede891830ffea54 "Example gist of Designer's animated typography"
 [4]:	https://themebeans.com/plugins/bean-portfolio
 [5]:	https://themebeans.com/contact
-[6]:	http://themebeans.com/customizations
+[6]:	https://themebeans.com/customizations
 [7]:	https://themebeans.com/themeforest
 [8]:	https://themebeans.com/contact
 
-[image-1]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595ff0262c7d3a707d7b83df/file-Uwb9DvvQyK.jpg "Create a New Page"
-[image-2]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fecf50428637ff8d462b8/file-6DaAqO3m5Y.jpg "Open the Static Front Page panel, in the Customizer"
-[image-3]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fed1c0428637ff8d462bb/file-pyUecy41SC.jpg "Set a Static Page"
-[image-4]:	http://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fee092c7d3a707d7b83c1/file-kPOj2r5Dq3.jpg "Assign a new Front Page"
+[image-1]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595ff0262c7d3a707d7b83df/file-Uwb9DvvQyK.jpg "Create a New Page"
+[image-2]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fecf50428637ff8d462b8/file-6DaAqO3m5Y.jpg "Open the Static Front Page panel, in the Customizer"
+[image-3]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fed1c0428637ff8d462bb/file-pyUecy41SC.jpg "Set a Static Page"
+[image-4]:	https://d33v4339jhl8k0.cloudfront.net/docs/assets/5744b893c697917290ddc31b/images/595fee092c7d3a707d7b83c1/file-kPOj2r5Dq3.jpg "Assign a new Front Page"
 [image-5]:	http://docs.themebeans.com/designer/images/template-settings.jpg
 [image-6]:	http://docs.themebeans.com/designer/images/gallery-images.jpg
 [image-7]:	http://docs.themebeans.com/designer/images/portfolio-post-formats.jpg

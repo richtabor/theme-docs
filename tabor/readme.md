@@ -45,7 +45,7 @@ Once it’s finished, your library of images will be optimized and ready to go.
 
 # Set up your Home Page
 
-To get the same home page that we're using on the live demo, simply add two H1 elements to whichever page you set as the **Front Page** in the **Customizer \> Static Front Page** options panel.
+Setup your home page just like we're using on the live demo.
 
 
 ## 1. Navigate to the Customizer
@@ -69,8 +69,14 @@ Then hit the **Save & Publish** button up at the top of the Customizer window, 
 
 ![][image-3]
 
-## 4. Home Page Demo Content
-Below is the content to use to replicate the theme's demo.
+## 4. Add the Tabor Hero Block
+If you're running Gutenberg, which Tabor fully supports, we added a new block plugin named Tabor Blocks.
+
+Activate this plugin (which is included in the theme files and served via the plugin installer) and you'll be able to add the hero area as seen on the front page of the live demo.
+
+## 5. Home Page Demo Content
+Below is the content to use to replicate the theme's demo, if you are not deploying Gutenberg on your website.
+
 ```
 <h5>Hi, I'm</h5>
 <h1>Rich</h1>
@@ -78,9 +84,9 @@ Below is the content to use to replicate the theme's demo.
 [typed text="ThemeBeans Founder, Designer"]
 ```
 
-## 5. Adding the typing animation header
+## 6. Adding the typing animation header
 
-The typing animation can be added to any page's content through the use of the [typed] shortcode.
+The typing animation can be added to any page's content through the use of the [typed] shortcode. If Gutenberg is deployed on your website this shortcode is no longer necessary, as it's built into the Tabor Hero block.
 
 Example:
 ```

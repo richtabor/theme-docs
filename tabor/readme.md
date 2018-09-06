@@ -112,6 +112,12 @@ The icons added to your Social Menu will automatically populate next to the site
 To replicate the live demo, install the [OptinMonster WordPress plugin][7] and hook up your OptinMonster account.
 
 ## The Footer Optin
+If you're using the new optin wizard from OptinMonster, it's easier than ever to get an optin added to your site. You'll want to set it up using the **Inline** Campaign Type with the **Action** template.</p>
+
+Once your optin is created and the OptinMonster plugin is activated on your site, you can then add the OptinMonster widget to the Footer widget area.
+
+
+## The Footer Optin (Legacy)
 To add the footer optin, create your optin in OptinMonster, then add the OptinMonster widget to the Footer widget area with your new optin set to display. You'll want to use the Action optin theme in OptinMonster, which is a Sidebar theme type.
 
 ![footer-om](https://user-images.githubusercontent.com/1813435/35158873-7173e26e-fd06-11e7-8c30-5626c282beca.jpg)
@@ -120,7 +126,7 @@ Next, ensure your optin's **Template NameSpace** is set to "**tucson**", within 
 
 ![footer-om-namespace](https://user-images.githubusercontent.com/1813435/35158910-875d37ce-fd06-11e7-86d5-6ac7a6d26960.jpg)
 
-## Inline Optins
+## Inline Optins (Legacy)
 For the inline opt-in, you should use the "**Action**" theme from OptinMonster, with the Theme Type set to "**After Post / Inline**". Then simply add the shortcode to your post, wherever you see fit. Here's an example of the shortcode:
 ```
 [optin-monster-shortcode id="yvm0geh9mdiokfipp6gk"]
